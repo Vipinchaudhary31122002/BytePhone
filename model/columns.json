@@ -1,0 +1,3 @@
+{
+    "data_columns": ["RAM(GB)", "Battery(mAh)", "Size(inch)", "Front(MP)", "Back(MP)", "Company Name", "Processor", "Model Name"]
+}
