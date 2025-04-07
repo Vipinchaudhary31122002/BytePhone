@@ -1,7 +1,8 @@
 {
     "name": "PractiseDev",
     "build": {
-        "dockerfile": "dockerfile"
+        "dockerfile": "../dockerfile",
+        "context": ".."
     },
     "customizations": {
         "vscode": {
